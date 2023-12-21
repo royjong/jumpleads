@@ -4,6 +4,13 @@ Step 2. Fetch possible domains.
 Step 3. Check online domains based on response codes.
 Step 4. Scrape the site for contact infromation, and push it to the frontend .
 
+## Branding colors for consitency 
+- #0458F6 - background
+- #4EBE9E - Primary buttons
+- #BBC5FF - Secondary button
+- #1B1A28 - Text-Color
+- 
+
 ## Currently building: Prototype
 - Curently building basic features.
 - No database connected, everything static. 
